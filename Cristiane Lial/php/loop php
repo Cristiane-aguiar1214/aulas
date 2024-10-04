@@ -1,0 +1,14 @@
+<?php
+// usuario digitara um numero e a aplicação
+// Complementara  do 0 ate o numero que o usuario digitou
+$usuario = readline ("digite um numero:");
+//echo $usuario;
+
+for ($i = $usuario; $i <=100; $i++) {
+    echo " $i\n";
+
+
+}
+?>
+
+
