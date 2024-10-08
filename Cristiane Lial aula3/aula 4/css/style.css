@@ -1,0 +1,51 @@
+h2{
+   
+    padding-top: 20px; /*espçamento interno para top*/
+    padding-bottom: 35px;/*espaçamento para baixo*/
+    padding-right: 10px; /*espaçamento para direita*/
+    padding-left: 25px; /* espaçãmento para esquerda*/
+    text-align: center;/*Alinha o texto no centro*/
+}
+.azul{
+background-color: rgb(53, 173, 163);
+border: 5px solid #000000;
+}
+
+.azul:hover{
+    background-color: blue;
+    border: 5px solid #000000;
+    }
+
+.vermelho{
+background-color: #A60D1A;
+border: 5px solid #000000;
+}
+
+.marrom{
+background-color:#6b0c0cb7; 
+border: 5px solid #000000;
+}
+
+a{
+    background-color: #2e6ea6;
+    color:#FFFFFF;
+    text-decoration: none;/*retira o sublinhado do link*/
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 50px;
+}
+a:hover{
+    background-color: #f27649;
+
+}
+button{
+    background-color: #A60D1A;
+    color: #FFFFFF;
+    text-decoration: nome;/*retira o sublinhado do link*/;
+    padding: 10px;
+    border-radius: 5px;
+    border: nome;
+}
+button:hover{
+    background-color: #f26363;
+}
